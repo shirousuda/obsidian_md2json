@@ -3,8 +3,8 @@
   "name": "Markdown to JSON",
   "version": "1.0.0",
   "minAppVersion": "0.15.0",
-  "description": "Convert Obsidian markdown notes to JSON format",
-  "author": "",
-  "authorUrl": "",
+  "description": "Convert Obsidian markdown files to structured JSON format",
+  "author": "shirousuda",
+  "authorUrl": "https://github.com/shirousuda",
   "isDesktopOnly": false
 } 
